@@ -7,7 +7,7 @@
 
  💬 my social webpage:  https://www.zhihu.com/people/4dspace
 
- 📫 How to reach me: jianggongshi@gmail.com
+ 📫 How to reach me: jianggongshi@yeah.net
 
 <!--
 **conbanwa/conbanwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
